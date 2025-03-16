@@ -1,0 +1,40 @@
+name: Optimize Videos Workflow
+on:
+  push:
+    paths:
+      - 'preview/custom/*.mp4'
+      - 'preview/custom/*.mov'
+      # - 'preview/apple/*.mp4'
+      # - 'preview/custom/*.mov'
+
+  workflow_dispatch:
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install FFmpeg
+        run: sudo apt-get install ffmpeg
+
+      - name: Optimize Videos
+        run: |
+          find . -type f \( -iname "*.mp4" -o -iname "*.mov" -o -iname "*.mkv" \) -exec ffmpeg -i {} -vcodec libx264 -crf 28 {} \;
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Wallpapers Bot"
+          git config --global user.email "serstars@users.noreply.github.com"
+          git checkout -b optimimization
+          git add .
+          git commit -m "Optimize video files"
+          git push origin optimimization
+
+      - name: Create a pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "Optimized video files"
+          body: "Automated video optimization."
+          branch: optimimization
