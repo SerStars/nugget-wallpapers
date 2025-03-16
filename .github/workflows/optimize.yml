@@ -23,7 +23,11 @@ jobs:
 
       - name: Optimize Videos
         run: |
-          find . -type f \( -iname "*.mp4" -o -iname "*.mov" -o -iname "*.mkv" \) -exec ffmpeg -y -i {} -vcodec libx264 -crf 28 {}.tmp \; -exec mv {}.tmp {} \;
+          for file in $(find . -type f \( -iname "*.mp4" -o -iname "*.mov" \)); do
+            ext="${file##*.}"
+            ffmpeg -y -i "$file" -vcodec libx264 -crf 28 "${file%.*}_tmp.$ext"
+            mv "${file%.*}_tmp.$ext" "$file"
+          done
 
       - name: Commit and push changes
         run: |
