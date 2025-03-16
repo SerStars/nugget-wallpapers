@@ -1,0 +1,53 @@
+name: Optimize Videos Workflow
+on:
+  push:
+    paths:
+      - 'preview/custom/*.mp4'
+      - 'preview/custom/*.mov'
+      # - 'preview/apple/*.mp4'
+      # - 'preview/apple/*.mov'
+
+  workflow_dispatch:
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Install FFmpeg
+        run: sudo apt-get install ffmpeg
+
+      - name: Optimize Videos
+        run: |
+          for file in $(find . -type f \( -iname "*.mp4" -o -iname "*.mov" \)); do
+            ext="${file##*.}"
+            ffmpeg -y -i "$file" -vcodec libx264 -crf 28 "${file%.*}_tmp.$ext"
+            mv "${file%.*}_tmp.$ext" "$file"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b optimization/video-$(date +%Y%m%d-%H%M%S)
+          git add .
+          git commit -m "Optimize video files"
+          git push origin HEAD
+
+      - name: Create a pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: "Optimized video files"
+          body: "Automated video optimization."
+          base: main
+          delete-branch: true
+          committer: GitHub <noreply@github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          token: ${{ github.token }}
