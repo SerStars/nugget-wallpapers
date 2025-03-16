@@ -31,5 +31,16 @@
       "ipad": false,
       "darkmode": false,
       "lightmode": false
-    }
+    },
+    {
+      "name": "Minecraft Panorama",
+      "description": "A scrolling panorama from Minecraft as your wallpaper!",
+      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/MCPanorama.tendies",
+      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/MCPanorama.mov",
+      "authors": "@pengubow",
+      "iphone": true,
+      "ipad": true,
+      "darkmode": false,
+      "lightmode": false
+    },
 ]
