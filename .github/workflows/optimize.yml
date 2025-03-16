@@ -36,18 +36,20 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b optimization/video-$(date +%Y%m%d-%H%M%S)
+          branch_name="optimization/video-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b $branch_name
           git add .
           git commit -m "Optimize video files"
-          git push origin HEAD
+          git push origin $branch_name
+          echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
-      - name: Create a pull request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          title: "Optimized video files"
-          body: "Automated video optimization."
-          base: main
-          delete-branch: true
-          committer: GitHub <noreply@github.com>
-          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-          token: ${{ github.token }}
+      - name: Create Pull Request
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          gh pr create \
+            --title "Optimized video files" \
+            --body "Automated video optimization." \
+            --base main \
+            --head ${{ env.BRANCH_NAME }} \
+            --label "automated pr"
