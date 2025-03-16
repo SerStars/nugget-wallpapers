@@ -53,5 +53,16 @@
       "ipad": false,
       "darkmode": false,
       "lightmode": false
+    },
+    {
+      "name": "Tinted Cubes",
+      "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
+      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/TintedCubes.tendies",
+      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/cubes.mov",
+      "authors": "@dootskyre",
+      "iphone": true,
+      "ipad": false,
+      "darkmode": true,
+      "lightmode": true
     }
 ]
