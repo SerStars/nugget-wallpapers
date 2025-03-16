@@ -1,4 +1,4 @@
-name: Optimize Videos Workflow
+name: Optimize Videos Workflow All
 on:
   push:
     paths:
