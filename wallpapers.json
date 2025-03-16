@@ -5,6 +5,8 @@
       "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/HomebrewChannel.tendies",
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/HomebrewChannel.mov",
       "authors": "@dootskyre",
+      "iphone": true,
+      "ipad": false,
       "designed": "iPhone",
       "darkmode": true,
       "lightmode": true
@@ -15,7 +17,8 @@
       "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/HomebrewChannelRed.tendies",
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/HomebrewChannelRed.mov",
       "authors": "@dootskyre",
-      "designed": "iPhone",
+      "iphone": true,
+      "ipad": false,
       "darkmode": true,
       "lightmode": true
     },
@@ -25,7 +28,8 @@
       "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/iOS6Revamp.tendies",
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/iOS6Revamp.mp4",
       "authors": "@dularkian on GitHub",
-      "designed": "iPhone",
+      "iphone": true,
+      "ipad": false,
       "darkmode": false,
       "lightmode": false
     }
