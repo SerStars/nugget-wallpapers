@@ -8,8 +8,8 @@
       "authors": "@dootskyre",
       "iphone": true,
       "ipad": false,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "Wii Homebrew Channel Red",
@@ -20,8 +20,8 @@
       "authors": "@dootskyre",
       "iphone": true,
       "ipad": false,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "iOS 6 Revamp",
@@ -68,8 +68,8 @@
       "authors": "@dootskyre",
       "iphone": true,
       "ipad": false,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "Rainbow Sprinkles",
@@ -80,8 +80,8 @@
       "authors": "@dootskyre",
       "iphone": true,
       "ipad": true,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "Balatro",
@@ -104,8 +104,8 @@
       "authors": "@_systemless on Discord",
       "iphone": true,
       "ipad": false,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "Boykisser",
@@ -116,8 +116,8 @@
       "authors": "@ch_eese on Discord",
       "iphone": true,
       "ipad": false,
-      "darkmode": true,
-      "lightmode": true
+      "darkmode": false,
+      "lightmode": false
     },
     {
       "name": "iOS Backup Things Logo",
@@ -129,6 +129,6 @@
       "iphone": true,
       "ipad": false,
       "darkmode": false,
-      "lightmode": true
+      "lightmode": false
     }
 ]
