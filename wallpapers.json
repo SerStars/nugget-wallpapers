@@ -81,10 +81,10 @@
       "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
       "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/BalatroMenu.tendies",
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/balatro.mp4",
-      "authors": "@dootskyre",
+      "authors": "@dularkian on GitHub",
       "iphone": true,
-      "ipad": true,
-      "darkmode": true,
-      "lightmode": true
+      "ipad": false,
+      "darkmode": false,
+      "lightmode": false
     }
 ]
