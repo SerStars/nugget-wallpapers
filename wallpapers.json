@@ -117,7 +117,7 @@
       "iphone": true,
       "ipad": false,
       "darkmode": true,
-      "lightmode": false
+      "lightmode": true
     },
     {
       "name": "iOS Backup Things Logo",
@@ -129,6 +129,6 @@
       "iphone": true,
       "ipad": false,
       "darkmode": false,
-      "lightmode": false
+      "lightmode": true
     }
 ]
