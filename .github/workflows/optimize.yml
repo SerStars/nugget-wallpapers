@@ -5,13 +5,16 @@ on:
       - 'preview/custom/*.mp4'
       - 'preview/custom/*.mov'
       # - 'preview/apple/*.mp4'
-      # - 'preview/custom/*.mov'
+      # - 'preview/apple/*.mov'
 
   workflow_dispatch:
 
 jobs:
   optimize:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -31,8 +34,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "Wallpapers Bot"
-          git config --global user.email "serstars@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b optimization/video-$(date +%Y%m%d-%H%M%S)
           git add .
           git commit -m "Optimize video files"
@@ -45,3 +48,6 @@ jobs:
           body: "Automated video optimization."
           base: main
           delete-branch: true
+          committer: GitHub <noreply@github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          token: ${{ github.token }}
