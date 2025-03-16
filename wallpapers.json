@@ -18,5 +18,15 @@
       "designed": "iPhone",
       "darkmode": true,
       "lightmode": true
+    },
+    {
+      "name": "iOS 6 Revamp",
+      "description": "Pretend like your phone is on iOS 6 again!",
+      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/iOS6Revamp.tendies",
+      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/iOS6Revamp.mp4",
+      "authors": "@dularkian on GitHub",
+      "designed": "iPhone",
+      "darkmode": false,
+      "lightmode": false
     }
 ]
