@@ -72,7 +72,7 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/sprinkles.mov",
       "authors": "@dootskyre",
       "iphone": true,
-      "ipad": true,
+      "ipad": false,
       "darkmode": true,
       "lightmode": true
     },
