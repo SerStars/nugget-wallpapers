@@ -79,7 +79,7 @@
       "preview_device": 1,
       "authors": "@dootskyre",
       "iphone": true,
-      "ipad": false,
+      "ipad": true,
       "darkmode": true,
       "lightmode": true
     },
