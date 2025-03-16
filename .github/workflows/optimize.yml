@@ -23,7 +23,7 @@ jobs:
 
       - name: Optimize Videos
         run: |
-          find . -type f \( -iname "*.mp4" -o -iname "*.mov" -o -iname "*.mkv" \) -exec ffmpeg -i {} -vcodec libx264 -crf 28 {} \;
+          find . -type f \( -iname "*.mp4" -o -iname "*.mov" -o -iname "*.mkv" \) -exec ffmpeg -y -i {} -vcodec libx264 -crf 28 {}.tmp \; -exec mv {}.tmp {} \;
 
       - name: Commit and push changes
         run: |
