@@ -142,5 +142,17 @@
       "ipad": false,
       "darkmode": false,
       "lightmode": false
+    },
+    {
+        "name": "Snoopy",
+        "description": "A TVOS inspired Snoopy wallpaper",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Snoopy.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Snoopy.mov",
+        "preview_device": 1,
+        "authors": "@daredvl",
+        "iphone": true,
+        "ipad": false,
+        "darkmode": false,
+        "lightmode": false
     }
 ]
