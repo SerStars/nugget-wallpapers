@@ -130,5 +130,29 @@
       "ipad": false,
       "darkmode": false,
       "lightmode": false
+    },
+    {
+      "name": "Mario Galaxy",
+      "description": "A wallpaper based on Super Mario Galaxy with different skyboxes and animations for different device states!",
+      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/MarioGalaxy.tendies",
+      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/galaxy.mov",
+      "preview_device": 1,
+      "authors": "@dootskyre",
+      "iphone": true,
+      "ipad": true,
+      "darkmode": false,
+      "lightmode": false
+    },
+    {
+        "name": "Snoopy",
+        "description": "A tvOS inspired Snoopy wallpaper",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Snoopy.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Snoopy.mov",
+        "preview_device": 1,
+        "authors": "@daredvl",
+        "iphone": true,
+        "ipad": false,
+        "darkmode": false,
+        "lightmode": false
     }
 ]
