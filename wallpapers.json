@@ -10,12 +10,12 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
-          "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "addsToGallery": true,
+          "appearanceAware": true,
+          "iPhone": true,
+          "iPad": false
         }
       },
       {
@@ -32,8 +32,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -50,8 +50,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -68,8 +68,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -86,8 +86,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -104,8 +104,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -122,8 +122,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -140,8 +140,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -158,8 +158,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -176,8 +176,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       },
       {
@@ -194,8 +194,8 @@
           "replacesWallpapers": false,
           "addsToGallery": false,
           "appearanceAware": false,
-          "iPad": false,
-          "iPhone": false
+          "iPhone": false,
+          "iPad": false
         }
       }
     ],
