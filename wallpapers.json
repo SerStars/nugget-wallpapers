@@ -6,10 +6,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannel.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Wii Homebrew Channel Red",
@@ -18,10 +24,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannelRed.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "iOS 6 Revamp",
@@ -30,10 +42,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOS6Revamp.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Minecraft Panorama",
@@ -42,10 +60,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/MCPanorama.mov",
       "preview_device": 2,
       "authors": "@pengubow",
-      "iphone": true,
-      "ipad": true,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Splatoon",
@@ -54,10 +78,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Splatoon.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Tinted Cubes",
@@ -66,10 +96,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/cubes.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Rainbow Sprinkles",
@@ -78,10 +114,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/sprinkles.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
-      "iphone": true,
-      "ipad": true,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Balatro",
@@ -90,10 +132,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/balatro.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Space",
@@ -102,10 +150,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Space.mov",
       "preview_device": 1,
       "authors": "@_systemless on Discord",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "Boykisser",
@@ -114,10 +168,16 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/boykisser.mov",
       "preview_device": 1,
       "authors": "@ch_eese on Discord",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     },
     {
       "name": "iOS Backup Things Logo",
@@ -126,9 +186,15 @@
       "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOSBackupThings.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
-      "iphone": true,
-      "ipad": false,
-      "darkmode": false,
-      "lightmode": false
+      "tags": {
+        "bundle": false,
+        "video": false,
+        "animated": false,
+        "replacesWallpapers": false,
+        "addsToGallery": false,
+        "appearanceAware": false,
+        "iPad": false,
+        "iPhone": false
+      }
     }
 ]
