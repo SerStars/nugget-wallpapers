@@ -1,200 +1,203 @@
-[
-    {
-      "name": "Wii Homebrew Channel",
-      "description": "The Wii Homebrew Channel banner as your wallpaper!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/HomebrewChannel.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannel.mov",
-      "preview_device": 1,
-      "authors": "@dootskyre",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
+{
+    "custom": [
+      {
+        "name": "Wii Homebrew Channel",
+        "description": "The Wii Homebrew Channel banner as your wallpaper!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/HomebrewChannel.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannel.mov",
+        "preview_device": 1,
+        "authors": "@dootskyre",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Wii Homebrew Channel Red",
+        "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/HomebrewChannelRed.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannelRed.mov",
+        "preview_device": 1,
+        "authors": "@dootskyre",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "iOS 6 Revamp",
+        "description": "Pretend like your phone is on iOS 6 again!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/iOS6Revamp.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOS6Revamp.mp4",
+        "preview_device": 1,
+        "authors": "@dularkian on GitHub",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Minecraft Panorama",
+        "description": "A scrolling panorama from Minecraft as your wallpaper!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/MCPanorama.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/MCPanorama.mov",
+        "preview_device": 2,
+        "authors": "@pengubow",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Splatoon",
+        "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Splatoon-SquidSisters.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Splatoon.mp4",
+        "preview_device": 1,
+        "authors": "@dularkian on GitHub",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Tinted Cubes",
+        "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/TintedCubes.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/cubes.mov",
+        "preview_device": 1,
+        "authors": "@dootskyre",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Rainbow Sprinkles",
+        "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/RainbowSprinkles.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/sprinkles.mov",
+        "preview_device": 1,
+        "authors": "@dootskyre",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Balatro",
+        "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/BalatroMenu.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/balatro.mp4",
+        "preview_device": 1,
+        "authors": "@dularkian on GitHub",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Space",
+        "description": "",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Space.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Space.mov",
+        "preview_device": 1,
+        "authors": "@_systemless on Discord",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "Boykisser",
+        "description": "Boykisser all over your screen",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/boykisser.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/boykisser.mov",
+        "preview_device": 1,
+        "authors": "@ch_eese on Discord",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
+      },
+      {
+        "name": "iOS Backup Things Logo",
+        "description": "iOS Backup Things logo as your wallpaper!",
+        "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/iOSBackupThings.tendies",
+        "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOSBackupThings.mp4",
+        "preview_device": 1,
+        "authors": "@dularkian on GitHub",
+        "tags": {
+          "bundle": false,
+          "video": false,
+          "animated": false,
+          "replacesWallpapers": false,
+          "addsToGallery": false,
+          "appearanceAware": false,
+          "iPad": false,
+          "iPhone": false
+        }
       }
-    },
-    {
-      "name": "Wii Homebrew Channel Red",
-      "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/HomebrewChannelRed.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/HomebrewChannelRed.mov",
-      "preview_device": 1,
-      "authors": "@dootskyre",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "iOS 6 Revamp",
-      "description": "Pretend like your phone is on iOS 6 again!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/iOS6Revamp.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOS6Revamp.mp4",
-      "preview_device": 1,
-      "authors": "@dularkian on GitHub",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Minecraft Panorama",
-      "description": "A scrolling panorama from Minecraft as your wallpaper!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/MCPanorama.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/MCPanorama.mov",
-      "preview_device": 2,
-      "authors": "@pengubow",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Splatoon",
-      "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Splatoon-SquidSisters.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Splatoon.mp4",
-      "preview_device": 1,
-      "authors": "@dularkian on GitHub",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Tinted Cubes",
-      "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/TintedCubes.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/cubes.mov",
-      "preview_device": 1,
-      "authors": "@dootskyre",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Rainbow Sprinkles",
-      "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/RainbowSprinkles.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/sprinkles.mov",
-      "preview_device": 1,
-      "authors": "@dootskyre",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Balatro",
-      "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/BalatroMenu.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/balatro.mp4",
-      "preview_device": 1,
-      "authors": "@dularkian on GitHub",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Space",
-      "description": "",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/Space.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/Space.mov",
-      "preview_device": 1,
-      "authors": "@_systemless on Discord",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "Boykisser",
-      "description": "Boykisser all over your screen",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/boykisser.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/boykisser.mov",
-      "preview_device": 1,
-      "authors": "@ch_eese on Discord",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    },
-    {
-      "name": "iOS Backup Things Logo",
-      "description": "iOS Backup Things logo as your wallpaper!",
-      "url": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/wallpapers/custom/iOSBackupThings.tendies",
-      "preview": "https://github.com/SerStars/nugget-wallpapers/raw/refs/heads/main/preview/custom/iOSBackupThings.mp4",
-      "preview_device": 1,
-      "authors": "@dularkian on GitHub",
-      "tags": {
-        "bundle": false,
-        "video": false,
-        "animated": false,
-        "replacesWallpapers": false,
-        "addsToGallery": false,
-        "appearanceAware": false,
-        "iPad": false,
-        "iPhone": false
-      }
-    }
-]
+    ],
+    "default": []
+}
