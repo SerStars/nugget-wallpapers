@@ -7,7 +7,7 @@ on:
       # - 'preview/apple/*.mp4'
       # - 'preview/apple/*.mov'
 
-  # workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   optimize:
