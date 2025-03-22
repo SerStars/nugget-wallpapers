@@ -26,17 +26,21 @@ jobs:
         id: convert
         run: |
           found_videos=false
-          find preview -type f \( -name "*.mp4" -o -name "*.mov" \) | while read video; do
-            found_videos=true
-            output_dir="$(dirname "$video")/gifs"
-            mkdir -p "$output_dir"
-            filename=$(basename "$video")
-            filename_noext="${filename%.*}"
-            
-            ffmpeg -i "$video" \
-              -vf "fps=15,scale=320:-1:flags=lanczos" \
-              -c:v gif \
-              "${output_dir}/${filename_noext}.gif"
+          for video in preview/custom/*.{mp4,mov}; do
+            # Check if file exists and is a regular file
+            if [[ -f "$video" ]]; then
+              found_videos=true
+              output_dir="$(dirname "$video")/gifs"
+              mkdir -p "$output_dir"
+              filename=$(basename "$video")
+              filename_noext="${filename%.*}"
+              
+              echo "Converting $video to GIF..."
+              ffmpeg -i "$video" \
+                -vf "fps=15,scale=320:-1:flags=lanczos" \
+                -c:v gif \
+                "${output_dir}/${filename_noext}.gif"
+            fi
           done
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
@@ -49,12 +53,7 @@ jobs:
           branch_name="gif-conversion-$(date +%s)"
           git checkout -b $branch_name
           
-          if git diff --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          
-          git add .
+          git add preview/custom/gifs/
           git commit -m "Convert videos to GIF"
           git push origin $branch_name
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
