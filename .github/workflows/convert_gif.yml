@@ -8,6 +8,8 @@ on:
     branches:
       - main
 
+  workflow_dispatch:
+
 jobs:
   convert:
     runs-on: ubuntu-latest
