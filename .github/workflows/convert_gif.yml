@@ -1,0 +1,44 @@
+name: Convert Videos to GIFs
+
+on:
+  push:
+    paths:
+      - 'preview/**/*.mp4'
+      - 'preview/**/*.mov'
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Convert videos to GIFs
+        run: |
+          find preview -type f \( -name "*.mp4" -o -name "*.mov" \) | while read video; do
+            output_dir="$(dirname "$video")/gifs"
+            mkdir -p "$output_dir"
+            filename=$(basename "$video")
+            filename_noext="${filename%.*}"
+            
+            ffmpeg -i "$video" \
+              -vf "fps=15,scale=320:-1:flags=lanczos" \
+              -c:v gif \
+              "${output_dir}/${filename_noext}.gif"
+          done
+
+      - name: Commit and push GIFs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          branch_name="gif-conversion"
+          git checkout -b $branch_name
+          git add .
+          git commit -m "Convert to GIF"
+          git push origin $branch_name
+          echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
