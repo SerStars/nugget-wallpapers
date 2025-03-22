@@ -3,8 +3,10 @@ name: Convert Videos to GIFs
 on:
   push:
     paths:
-      - 'preview/**/*.mp4'
-      - 'preview/**/*.mov'
+      - 'preview/custom/*.mp4'
+      - 'preview/custom/*.mov'
+      # - 'preview/apple/*.mp4'
+      # - 'preview/apple/*.mov'
     branches:
       - main
 
@@ -21,8 +23,11 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Convert videos to GIFs
+        id: convert
         run: |
+          found_videos=false
           find preview -type f \( -name "*.mp4" -o -name "*.mov" \) | while read video; do
+            found_videos=true
             output_dir="$(dirname "$video")/gifs"
             mkdir -p "$output_dir"
             filename=$(basename "$video")
@@ -33,14 +38,38 @@ jobs:
               -c:v gif \
               "${output_dir}/${filename_noext}.gif"
           done
+          echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
       - name: Commit and push GIFs
+        if: steps.convert.outputs.found_videos == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          branch_name="gif-conversion"
+          
+          branch_name="gif-conversion-$(date +%s)"
           git checkout -b $branch_name
+          
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
           git add .
-          git commit -m "Convert to GIF"
+          git commit -m "Convert videos to GIF"
           git push origin $branch_name
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        if: steps.convert.outputs.found_videos == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { BRANCH_NAME } = process.env;
+            await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Convert videos to GIF',
+              head: BRANCH_NAME,
+              base: 'main',
+              body: 'Automatically generated PR for video to GIF conversion'
+            });
