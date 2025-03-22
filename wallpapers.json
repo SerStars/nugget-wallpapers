@@ -28,11 +28,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -46,11 +46,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -64,12 +64,12 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
-          "iPad": false
+          "iPhone": true,
+          "iPad": true
         }
       },
       {
@@ -82,11 +82,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -100,11 +100,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
-          "appearanceAware": false,
-          "iPhone": false,
+          "addsToGallery": true,
+          "appearanceAware": true,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -118,12 +118,12 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
-          "appearanceAware": false,
-          "iPhone": false,
-          "iPad": false
+          "addsToGallery": true,
+          "appearanceAware": true,
+          "iPhone": true,
+          "iPad": true
         }
       },
       {
@@ -136,11 +136,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -154,12 +154,12 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
-          "iPad": false
+          "iPhone": true,
+          "iPad": true
         }
       },
       {
@@ -172,11 +172,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
-          "appearanceAware": false,
-          "iPhone": false,
+          "addsToGallery": true,
+          "appearanceAware": true,
+          "iPhone": true,
           "iPad": false
         }
       },
@@ -190,11 +190,11 @@
         "tags": {
           "bundle": false,
           "video": false,
-          "animated": false,
+          "animated": true,
           "replacesWallpapers": false,
-          "addsToGallery": false,
+          "addsToGallery": true,
           "appearanceAware": false,
-          "iPhone": false,
+          "iPhone": true,
           "iPad": false
         }
       }
