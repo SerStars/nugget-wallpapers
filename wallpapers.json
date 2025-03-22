@@ -31,7 +31,7 @@
           "animated": true,
           "replacesWallpapers": false,
           "addsToGallery": true,
-          "appearanceAware": false,
+          "appearanceAware": true,
           "iPhone": true,
           "iPad": false
         }
