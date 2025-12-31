@@ -57,6 +57,11 @@
     "url": "wallpapers/custom/Crome-Hearts-v2.tendies",
     "preview": "previews/custom/gifs/ChromeHearts.gif", // Keep this as .gif!
     "authors": "@lordrezon", // Can be a social media @ or just your name.
+    "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery",
+            "Gyro"
         ]
     },
     {
