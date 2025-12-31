@@ -52,6 +52,13 @@
         ]
     },
     {
+    "name": "Chrome Hearts",
+    "description": "Has AOD",
+    "url": "wallpapers/custom/YourWallpaperFileHere.tendies",
+    "preview": "previews/custom/gifs/YourWallpaperPreviewHere.gif", // Keep this as .gif!
+    "authors": "You", // Can be a social media @ or just your name.
+    },
+    {
     "name": "Kakurenbo",
     "description": "Someone's watching you...",
     "url": "wallpapers/custom/KakuRenbo.tendies",
