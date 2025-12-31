@@ -52,6 +52,19 @@
         ]
     },
     {
+    "name": "Chrome Hearts",
+    "description": "Has AOD",
+    "url": "wallpapers/custom/Crome-Hearts-v2.tendies",
+    "preview": "previews/custom/gifs/ChromeHearts.gif", // Keep this as .gif!
+    "authors": "@lordrezon", // Can be a social media @ or just your name.
+    "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery",
+            "Gyro"
+        ]
+    },
+    {
     "name": "Kakurenbo",
     "description": "Someone's watching you...",
     "url": "wallpapers/custom/KakuRenbo.tendies",
