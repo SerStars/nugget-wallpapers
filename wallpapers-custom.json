@@ -52,6 +52,31 @@
         ]
     },
     {
+    "name": "Chrome Hearts",
+    "description": "Has AOD",
+    "url": "wallpapers/custom/Crome-Hearts-v2.tendies",
+    "preview": "previews/custom/gifs/ChromeHearts.gif",
+    "authors": "@lordrezon",
+    "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery",
+            "Gyro"
+        ]
+    },
+    {
+    "name": "Kakurenbo",
+    "description": "Someone's watching you...",
+    "url": "wallpapers/custom/KakuRenbo.tendies",
+    "preview": "previews/custom/gifs/KakuRenbo.gif",
+    "authors": "@Rhyru9",
+    "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
         "name": "Bowser Jr.",
         "description": "Has a light mode and dark mode",
         "url": "wallpapers/custom/Bowser-Jr.tendies",
@@ -174,8 +199,8 @@
     {
         "name": "Kanye West",
         "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
-        "url": "wallpapers/custom/KanyeWest.tendies",
-        "preview": "previews/custom/gifs/Kanyewest.gif",
+        "url": "wallpapers/custom/kanyewest.tendies",
+        "preview": "previews/custom/gifs/kanyewest.gif",
         "authors": "retronbv",
         "tags": [
             "iPhone",
