@@ -1,159 +1,159 @@
 [
-  {
-      "name": "Default Wallpapers",
-      "description": "Default Collections wallpapers",
-      "url": "wallpapers/apple/Defaults.tendies",
-      "preview": "previews/apple/images/Defaults.png"
-  },
-  {
-      "name": "iPhone Air",
-      "description": "*15 Pro or newer, iOS 26+",
-      "url": "wallpapers/apple/iPhone Air.tendies",
-      "preview": "previews/apple/images/iPhoneAir.png"
-  },
-  {
-      "name": "iPhone 17 Pro",
-      "description": "*iOS 26+",
-      "url": "wallpapers/apple/iPhone 17 Pro.tendies",
-      "preview": "previews/apple/images/iPhone17Pro.png"
-  },
-  {
-      "name": "iPhone 17",
-      "description": "*iOS 26+",
-      "url": "wallpapers/apple/iPhone 17.tendies",
-      "preview": "previews/apple/images/iPhone17.png"
-  },
-  {
-      "name": "iPhone 16 Pro",
-      "description": "*15 Pro or newer, iOS 18+",
-      "url": "wallpapers/apple/iPhone 16 Pro.tendies",
-      "preview": "previews/apple/images/iPhone16Pro.png"
-  },
-  {
-      "name": "iPhone 16",
-      "description": "*iOS 18+",
-      "url": "wallpapers/apple/iPhone 16.tendies",
-      "preview": "previews/apple/images/iPhone16.png"
-  },
-  {
-      "name": "iPhone 16e",
-      "description": "*iOS 18+",
-      "url": "wallpapers/apple/iPhone 16e.tendies",
-      "preview": "previews/apple/images/iPhone16e.png"
-  },
-  {
-      "name": "iPhone 15 Pro",
-      "url": "wallpapers/apple/iPhone15Pro.tendies",
-      "preview": "previews/apple/images/iPhone15Pro.png"
-  },
-  {
-      "name": "iPhone 15",
-      "url": "wallpapers/apple/iPhone15.tendies",
-      "preview": "previews/apple/images/iPhone15.png"
-  },
-  {
-      "name": "iPhone 14 Pro",
-      "url": "wallpapers/apple/iPhone14Pro.tendies",
-      "preview": "previews/apple/images/iPhone14Pro.png"
-  },
-  {
-      "name": "iPhone 14",
-      "url": "wallpapers/apple/iPhone14.tendies",
-      "preview": "previews/apple/images/iPhone14.png"
-  },
-  {
-      "name": "iPhone SE 3rd Gen",
-      "url": "wallpapers/apple/iPhoneSEGen3.tendies",
-      "preview": "previews/apple/images/iPhoneSEGen3.png"
-  },
-  {
-      "name": "iPhone 13 Pro",
-      "url": "https://atums.world/raw/iPhone13Pro.tendies",
-      "preview": "previews/apple/images/iPhone13Pro.png"
-  },
-  {
-      "name": "iPhone 13",
-      "url": "https://atums.world/raw/iPhone13Descriptors.tendies",
-      "preview": "previews/apple/images/iPhone13.png"
-  },
-  {
-      "name": "iPhone 12 Pro",
-      "url": "https://atums.world/raw/iPhone12Pro.tendies",
-      "preview": "previews/apple/images/iPhone12Pro.png"
-  },
-  {
-      "name": "iPhone 12",
-      "url": "https://atums.world/raw/iPhone12.tendies",
-      "preview": "previews/apple/images/iPhone12.png"
-  },
-  {
-      "name": "iPhone SE 2nd Gen",
-      "url": "wallpapers/apple/iPhoneSEGen2.tendies",
-      "preview": "previews/apple/images/iPhoneSEGen2.png"
-  },
-  {
-      "name": "iPhone 11 Pro",
-      "url": "https://atums.world/raw/iPhone11Pro.tendies",
-      "preview": "previews/apple/images/iPhone11Pro.png"
-  },
-  {
-      "name": "iPhone 11",
-      "url": "wallpapers/apple/iPhone11.tendies",
-      "preview": "previews/apple/images/iPhone11.png"
-  },
-  {
-      "name": "iPad mini 6th Gen",
-      "url": "wallpapers/apple/iPadMiniGen6.tendies",
-      "preview": "previews/apple/images/iPadMiniGen6.png"
-  },
-  {
-      "name": "iPad Air 6th Gen",
-      "url": "wallpapers/apple/iPadAirGen6.tendies",
-      "preview": "previews/apple/images/iPadAirGen6.png"
-  },
-  {
-      "name": "iPad Air 5th Gen",
-      "url": "wallpapers/apple/iPadAirGen5.tendies",
-      "preview": "previews/apple/images/iPadAirGen5.png"
-  },
-  {
-      "name": "iPad Air 4th Gen",
-      "url": "wallpapers/apple/iPadAirGen4.tendies",
-      "preview": "previews/apple/images/iPadAirGen4.png"
-  },
-  {
-      "name": "iOS 17",
-      "url": "wallpapers/apple/iOS17.tendies",
-      "preview": "previews/apple/images/iOS17.png"
-  },
-  {
-      "name": "iOS 16",
-      "url": "wallpapers/apple/iOS16.tendies",
-      "preview": "previews/apple/images/iOS16.png"
-  },
-  {
-      "name": "iOS 15",
-      "url": "wallpapers/apple/iOS15.tendies",
-      "preview": "previews/apple/images/iOS15.png"
-  },
-  {
-      "name": "Lake (iOS 14)",
-      "url": "wallpapers/apple/Lake.tendies",
-      "preview": "previews/apple/images/Lake.png"
-  },
-  {
-      "name": "Desert",
-      "url": "wallpapers/apple/Desert.tendies",
-      "preview": "previews/apple/images/Desert.png"
-  },
-  {
-      "name": "iOS 14",
-      "url": "wallpapers/apple/iOS14.tendies",
-      "preview": "previews/apple/images/iOS14.png"
-  },
-  {
-      "name": "iOS 13",
-      "url": "wallpapers/apple/iOS13.tendies",
-      "preview": "previews/apple/images/iOS13.png"
-  }
+    {
+        "name": "Default Wallpapers",
+        "description": "Default Collections wallpapers",
+        "url": "wallpapers/apple/Defaults.tendies",
+        "preview": "previews/apple/images/Defaults.png"
+    },
+    {
+        "name": "iPhone Air",
+        "description": "*15 Pro or newer, iOS 26+",
+        "url": "wallpapers/apple/iPhone Air.tendies",
+        "preview": "previews/apple/images/iPhoneAir.png"
+    },
+    {
+        "name": "iPhone 17 Pro",
+        "description": "*iOS 26+",
+        "url": "wallpapers/apple/iPhone 17 Pro.tendies",
+        "preview": "previews/apple/images/iPhone17Pro.png"
+    },
+    {
+        "name": "iPhone 17",
+        "description": "*iOS 26+",
+        "url": "wallpapers/apple/iPhone 17.tendies",
+        "preview": "previews/apple/images/iPhone17.png"
+    },
+    {
+        "name": "iPhone 16 Pro",
+        "description": "*15 Pro or newer, iOS 18+",
+        "url": "wallpapers/apple/iPhone 16 Pro.tendies",
+        "preview": "previews/apple/images/iPhone16Pro.png"
+    },
+    {
+        "name": "iPhone 16",
+        "description": "*iOS 18+",
+        "url": "wallpapers/apple/iPhone 16.tendies",
+        "preview": "previews/apple/images/iPhone16.png"
+    },
+    {
+        "name": "iPhone 16e",
+        "description": "*iOS 18+",
+        "url": "wallpapers/apple/iPhone 16e.tendies",
+        "preview": "previews/apple/images/iPhone16e.png"
+    },
+    {
+        "name": "iPhone 15 Pro",
+        "url": "wallpapers/apple/iPhone15Pro.tendies",
+        "preview": "previews/apple/images/iPhone15Pro.png"
+    },
+    {
+        "name": "iPhone 15",
+        "url": "wallpapers/apple/iPhone15.tendies",
+        "preview": "previews/apple/images/iPhone15.png"
+    },
+    {
+        "name": "iPhone 14 Pro",
+        "url": "wallpapers/apple/iPhone14Pro.tendies",
+        "preview": "previews/apple/images/iPhone14Pro.png"
+    },
+    {
+        "name": "iPhone 14",
+        "url": "wallpapers/apple/iPhone14.tendies",
+        "preview": "previews/apple/images/iPhone14.png"
+    },
+    {
+        "name": "iPhone SE 3rd Gen",
+        "url": "wallpapers/apple/iPhoneSEGen3.tendies",
+        "preview": "previews/apple/images/iPhoneSEGen3.png"
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "url": "https://atums.world/raw/iPhone13Pro.tendies",
+        "preview": "previews/apple/images/iPhone13Pro.png"
+    },
+    {
+        "name": "iPhone 13",
+        "url": "https://atums.world/raw/iPhone13Descriptors.tendies",
+        "preview": "previews/apple/images/iPhone13.png"
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "url": "https://atums.world/raw/iPhone12Pro.tendies",
+        "preview": "previews/apple/images/iPhone12Pro.png"
+    },
+    {
+        "name": "iPhone 12",
+        "url": "https://atums.world/raw/iPhone12.tendies",
+        "preview": "previews/apple/images/iPhone12.png"
+    },
+    {
+        "name": "iPhone SE 2nd Gen",
+        "url": "wallpapers/apple/iPhoneSEGen2.tendies",
+        "preview": "previews/apple/images/iPhoneSEGen2.png"
+    },
+    {
+        "name": "iPhone 11 Pro",
+        "url": "https://atums.world/raw/iPhone11Pro.tendies",
+        "preview": "previews/apple/images/iPhone11Pro.png"
+    },
+    {
+        "name": "iPhone 11",
+        "url": "wallpapers/apple/iPhone11.tendies",
+        "preview": "previews/apple/images/iPhone11.png"
+    },
+    {
+        "name": "iPad mini 6th Gen",
+        "url": "wallpapers/apple/iPadMiniGen6.tendies",
+        "preview": "previews/apple/images/iPadMiniGen6.png"
+    },
+    {
+        "name": "iPad Air 6th Gen",
+        "url": "wallpapers/apple/iPadAirGen6.tendies",
+        "preview": "previews/apple/images/iPadAirGen6.png"
+    },
+    {
+        "name": "iPad Air 5th Gen",
+        "url": "wallpapers/apple/iPadAirGen5.tendies",
+        "preview": "previews/apple/images/iPadAirGen5.png"
+    },
+    {
+        "name": "iPad Air 4th Gen",
+        "url": "wallpapers/apple/iPadAirGen4.tendies",
+        "preview": "previews/apple/images/iPadAirGen4.png"
+    },
+    {
+        "name": "iOS 17",
+        "url": "wallpapers/apple/iOS17.tendies",
+        "preview": "previews/apple/images/iOS17.png"
+    },
+    {
+        "name": "iOS 16",
+        "url": "wallpapers/apple/iOS16.tendies",
+        "preview": "previews/apple/images/iOS16.png"
+    },
+    {
+        "name": "iOS 15",
+        "url": "wallpapers/apple/iOS15.tendies",
+        "preview": "previews/apple/images/iOS15.png"
+    },
+    {
+        "name": "Lake (iOS 14)",
+        "url": "wallpapers/apple/Lake.tendies",
+        "preview": "previews/apple/images/Lake.png"
+    },
+    {
+        "name": "Desert",
+        "url": "wallpapers/apple/Desert.tendies",
+        "preview": "previews/apple/images/Desert.png"
+    },
+    {
+        "name": "iOS 14",
+        "url": "wallpapers/apple/iOS14.tendies",
+        "preview": "previews/apple/images/iOS14.png"
+    },
+    {
+        "name": "iOS 13",
+        "url": "wallpapers/apple/iOS13.tendies",
+        "preview": "previews/apple/images/iOS13.png"
+    }
 ]
