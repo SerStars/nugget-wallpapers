@@ -76,6 +76,20 @@
         "authors": "@dootskyre"
     },
     {
+    "name": "Purple Shapes",
+    "description": "Purple gradients",
+    "url": "wallpapers/custom/PurpleShapes.tendies",
+    "preview": "previews/custom/gifs/PurpleShapes.gif", 
+    "authors": "Spy_g"
+    },
+    {
+    "name": "Dark Scenery",
+    "description": "A dark forrest with emmiters",
+    "url": "wallpapers/custom/Dark.tendies",
+    "preview": "previews/custom/gifs/Dark.gif", 
+    "authors": "Spy_g"
+    },
+    {
         "name": "Chrome Hearts",
         "description": "Has AOD",
         "url": "wallpapers/custom/Crome-Hearts-v2.tendies",
