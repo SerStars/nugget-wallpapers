@@ -32,7 +32,7 @@ jobs:
         id: convert
         run: |
           found_videos=false
-          for video in previews/**/videos/*.{mp4,mov}; do
+          for video in previews/**/videos/*.{mp4,mov,MP4,MOV}; do
             if [[ -f "$video" ]]; then
               base_dir="$(dirname "$(dirname "$video")")"
               output_dir="${base_dir}/gifs"
@@ -56,22 +56,22 @@ jobs:
           done
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
-      - name: Create Pull Request
-        if: steps.convert.outputs.found_videos == 'true'
-        id: create-pr
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: "chore: convert videos to GIFs"
-          title: "Convert videos to GIFs"
-          body: "Automatically converted video previews to GIF format"
-          branch: video-to-gif
-          delete-branch: true
-
-      # TODO: Fix this
-      # - name: Enable Auto-Merge
-      #   if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
-      #   uses: peter-evans/enable-pull-request-automerge@v2
+      # - name: Create Pull Request
+      #   if: steps.convert.outputs.found_videos == 'true'
+      #   id: create-pr
+      #   uses: peter-evans/create-pull-request@v5
       #   with:
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
-      #     merge-method: squash
+      #     commit-message: "chore: convert videos to GIFs"
+      #     title: "Convert videos to GIFs"
+      #     body: "Automatically converted video previews to GIF format"
+      #     branch: video-to-gif
+      #     delete-branch: true
+
+      - name: Commit changes
+        if: steps.convert.outputs.found_videos == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add previews
+          git commit -m "chore: convert videos to GIFs"
+          git push
