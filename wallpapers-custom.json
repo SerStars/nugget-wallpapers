@@ -279,6 +279,13 @@
         "authors": "@dootskyre"
     },
     {
+        "name": "Final Resting Place",
+        "description": "Glimpse into the future",
+        "url": "wallpapers/custom/TrinityHadesSkeletonBoy.tendies",
+        "preview": "previews/custom/gifs/TrinityHadesSkeletonBoy.gif",
+        "authors": "trinityhades"
+    },
+    {
         "name": "Space",
         "description": "The Space!",
         "url": "wallpapers/custom/Space.tendies",
@@ -690,12 +697,5 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev"
-    },
-    {
-        "name": "Final Resting Place",
-        "description": "Glimpse into the future",
-        "url": "wallpapers/custom/TrinityHadesSkeletonBoy.tendies",
-        "preview": "previews/custom/gifs/TrinityHadesSkeletonBoy.gif",
-        "authors": "trinityhades"
     }
 ]
