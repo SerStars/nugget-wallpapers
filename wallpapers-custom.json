@@ -690,5 +690,12 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev"
+    },
+    {
+        "name": "Skeleton Boy",
+        "description": "Final Resting Place",
+        "url": "wallpapers/custom/TrinityHadesSkeletonBoy.tendies",
+        "preview": "previews/custom/gifs/TrinityHadesSkeletonBoy.gif",
+        "authors": "trinityhades"
     }
 ]
