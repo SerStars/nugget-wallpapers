@@ -1,5 +1,6 @@
 [
     {
+        "id": 2,
         "name": "Layers",
         "description": "Create a custom depth effect and light/dark Wallpaper layer-by-layer!",
         "url": "wallpapers/template/Layers.batter",
@@ -7,6 +8,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 1,
         "name": "LavaLamp",
         "description": "Customizable mesh gradient wallpaper that uses your images!",
         "url": "wallpapers/template/LavaLamp.batter",
@@ -14,6 +16,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 0,
         "name": "Spatial",
         "description": "Customizable progressive blur wallpaper, like Apple Invites/Music! (2 variants included)",
         "url": "wallpapers/template/Spatial.batter",

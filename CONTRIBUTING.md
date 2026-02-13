@@ -16,6 +16,7 @@ If you want to add your own wallpaper:
 <br>**Template** wallpapers can be put at the top in [wallpapers-template.json](#wallpapers-template.json)
 ```json
 {
+    "id": 00000,
     "name": "Your Wallpaper Name Here",
     "description": "Your Wallpaper Description Here",
     "url": "wallpapers/custom/YourWallpaperFileHere.tendies",

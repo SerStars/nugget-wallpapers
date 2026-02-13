@@ -1,5 +1,6 @@
 [
     {
+        "id": 113,
         "name": "Cipher",
         "description": "Decoding...",
         "url": "wallpapers/custom/Cipher.tendies",
@@ -8,6 +9,7 @@
         "contest": "🏆 1st Place"
     },
     {
+        "id": 112,
         "name": "Simple Minecraft Chest",
         "description": "Open the chest!",
         "url": "wallpapers/custom/SimpleMinecraftChest.tendies",
@@ -16,6 +18,7 @@
         "contest": "🥈 2nd Place"
     },
     {
+        "id": 110,
         "name": "Super Mario Bros.",
         "description": "Play Super Mario Bros. on your lock screen!",
         "url": "wallpapers/custom/SuperMarioBros.tendies",
@@ -24,6 +27,7 @@
         "contest": "🥉 3rd Place"
     },
     {
+        "id": 109,
         "name": "Apollo 15",
         "description": "Woah... the Apollo 15 mission!",
         "url": "wallpapers/custom/Apollo15.tendies",
@@ -32,6 +36,7 @@
         "contest": "🏁 Best static/low motion wallpaper"
     },
     {
+        "id": 108,
         "name": "Rolling Hills",
         "description": "boink boink boink",
         "url": "wallpapers/custom/RollingHills.tendies",
@@ -40,6 +45,7 @@
         "contest": "🏁 Best use of iOS 26 gyro"
     },
     {
+        "id": 107,
         "name": "Where's Waldo?",
         "description": "Do you know where Waldo is?",
         "url": "wallpapers/custom/WheresWaldo.tendies",
@@ -48,6 +54,7 @@
         "contest": "🏁 Best Winter/Christmas Wallpaper"
     },
     {
+        "id": 106,
         "name": "DVD Screensaver",
         "description": "It hits the corner!",
         "url": "wallpapers/custom/DVDcolor.tendies",
@@ -55,6 +62,7 @@
         "authors": "@mightycooldude12"
     },
     {
+        "id": 105,
         "name": "Black Hole",
         "description": "Cool, beautiful, and strong.",
         "url": "wallpapers/custom/BlackHole.tendies",
@@ -62,6 +70,7 @@
         "authors": "@i.mes"
     },
     {
+        "id": 104,
         "name": "Cat Volleyball",
         "description": "Hapi Hapi Hapi",
         "url": "wallpapers/custom/catvolleyball-lite.tendies",
@@ -69,6 +78,7 @@
         "authors": "@c4ndyf1sh"
     },
     {
+        "id": 103,
         "name": "Animal Crossing Seasons",
         "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
         "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
@@ -76,6 +86,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 102,
         "name": "Purple Shapes",
         "description": "Purple gradients",
         "url": "wallpapers/custom/PurpleShapes.tendies",
@@ -83,6 +94,7 @@
         "authors": "Spy_g"
     },
     {
+        "id": 101,
         "name": "Dark Scenery",
         "description": "A dark forrest with emmiters",
         "url": "wallpapers/custom/Dark.tendies",
@@ -90,6 +102,7 @@
         "authors": "Spy_g"
     },
     {
+        "id": 100,
         "name": "Chrome Hearts",
         "description": "Has AOD",
         "url": "wallpapers/custom/Crome-Hearts-v2.tendies",
@@ -97,6 +110,7 @@
         "authors": "@lordrezon"
     },
     {
+        "id": 99,
         "name": "Kakurenbo",
         "description": "Someone's watching you...",
         "url": "wallpapers/custom/KakuRenbo.tendies",
@@ -104,6 +118,7 @@
         "authors": "@Rhyru9"
     },
     {
+        "id": 98,
         "name": "Bowser Jr.",
         "description": "Has a light mode and dark mode",
         "url": "wallpapers/custom/Bowser-Jr.tendies",
@@ -111,6 +126,7 @@
         "authors": "Aperaine"
     },
     {
+        "id": 97,
         "name": "Autumn City",
         "description": "Autumn themed wallpaper with falling leaves",
         "url": "wallpapers/custom/AutumnCity.tendies",
@@ -118,6 +134,7 @@
         "authors": "nNPC"
     },
     {
+        "id": 96,
         "name": "Flappy Bird",
         "description": "A simple flappy bird game!",
         "url": "wallpapers/custom/FlappyBird.tendies",
@@ -125,6 +142,7 @@
         "authors": "@squair.dev"
     },
     {
+        "id": 95,
         "name": "FrutigerAeroV1",
         "description": "A Wallpaper based on the Frutiger Areo Style",
         "url": "wallpapers/custom/FrutigerAeroV1.tendies",
@@ -132,6 +150,7 @@
         "authors": "@devwithoutcod1ng"
     },
     {
+        "id": 94,
         "name": "Playboi Carti - Die Lit",
         "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
         "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
@@ -139,6 +158,7 @@
         "authors": "@tankhalfempty."
     },
     {
+        "id": 93,
         "name": "Exploding Colors",
         "description": "Some cool colors exploding on your screen!",
         "url": "wallpapers/custom/ExplodingColors.tendies",
@@ -146,6 +166,7 @@
         "authors": "@squair.dev"
     },
     {
+        "id": 92,
         "name": "Gyro Depths",
         "description": "A wave-based gyro wallpaper! (iOS 26+)",
         "url": "wallpapers/custom/GyroDepths.tendies",
@@ -153,6 +174,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 91,
         "name": "Flappy Bird V2",
         "description": "Now with gyro! (iOS 26RC+)",
         "url": "wallpapers/custom/FlappyBirdV2.tendies",
@@ -160,6 +182,7 @@
         "authors": "@squair.dev"
     },
     {
+        "id": 90,
         "name": "GitHub",
         "description": "First wallpaper made in CAPlayground",
         "url": "wallpapers/custom/GitHub.tendies",
@@ -167,6 +190,7 @@
         "authors": "@enkei64"
     },
     {
+        "id": 89,
         "name": "MOJO Carrot",
         "description": "It uses device motion to look around. Big MOJO! \n(iOS 26+)",
         "url": "wallpapers/custom/MOJOCARROT.tendies",
@@ -174,6 +198,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 88,
         "name": "Kanye West",
         "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
         "url": "wallpapers/custom/kanyewest.tendies",
@@ -181,6 +206,7 @@
         "authors": "retronbv"
     },
     {
+        "id": 87,
         "name": "Persona 4 Teddie",
         "description": "Teddie!",
         "url": "wallpapers/custom/TeddieP4Golden.tendies",
@@ -188,6 +214,7 @@
         "authors": "@aaqil."
     },
     {
+        "id": 86,
         "name": "Dean Blunt - Zushi",
         "description": "Dragon",
         "url": "wallpapers/custom/DeanBluntZushi.tendies",
@@ -195,6 +222,7 @@
         "authors": "@ok.komo"
     },
     {
+        "id": 85,
         "name": "Persona 3 FeMC",
         "description": "Persona 3 FeMC menu wallpaper",
         "url": "wallpapers/custom/P3FEMCTheme.tendies",
@@ -202,6 +230,7 @@
         "authors": "Ty and Co."
     },
     {
+        "id": 84,
         "name": "Persona 5 Royal",
         "description": "Persona 5 Royal menu wallpaper",
         "url": "wallpapers/custom/P5RTheme.tendies",
@@ -209,6 +238,7 @@
         "authors": "Ty and Co."
     },
     {
+        "id": 83,
         "name": "Cubes!",
         "description": "Moving cubes!",
         "url": "wallpapers/custom/Cubes.tendies",
@@ -216,6 +246,7 @@
         "authors": "@ok.komo"
     },
     {
+        "id": 82,
         "name": "AltStore",
         "description": "Yeah... AltStore.",
         "url": "wallpapers/custom/AltStore.tendies",
@@ -223,6 +254,7 @@
         "authors": "@ok.komo"
     },
     {
+        "id": 81,
         "name": "Event Horizon",
         "description": "Just look how beautiful it is.",
         "url": "wallpapers/custom/EventHorizon.tendies",
@@ -230,6 +262,7 @@
         "authors": "@stpotato"
     },
     {
+        "id": 80,
         "name": "Lofi",
         "description": "Just relax...",
         "url": "wallpapers/custom/Lofi.tendies",
@@ -237,6 +270,7 @@
         "authors": "@mightycooldude12"
     },
     {
+        "id": 79,
         "name": "Mario Gamer",
         "description": "Gamer Mario",
         "url": "wallpapers/custom/MarioGamer.tendies",
@@ -244,6 +278,7 @@
         "authors": "@ip1.1.1.1"
     },
     {
+        "id": 78,
         "name": "HarmonyOS Emoji",
         "description": "Inspired by the Emoji wallpaper on HarmonyOS",
         "url": "wallpapers/custom/HarmonyOSEmoji.tendies",
@@ -251,6 +286,7 @@
         "authors": "@yangjiii"
     },
     {
+        "id": 77,
         "name": "Persona 3 Reload (pause menu)",
         "description": "Your phone is now a game.",
         "url": "wallpapers/custom/Persona3.tendies",
@@ -258,6 +294,7 @@
         "authors": "@bebebole"
     },
     {
+        "id": 0,
         "name": "Wii Homebrew Channel",
         "description": "The Wii Homebrew Channel banner as your wallpaper!",
         "url": "wallpapers/custom/HomebrewChannel.tendies",
@@ -265,6 +302,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 1,
         "name": "Wii Homebrew Channel Red",
         "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
         "url": "wallpapers/custom/HomebrewChannelRed.tendies",
@@ -272,6 +310,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 3,
         "name": "WiiBeer",
         "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
         "url": "wallpapers/custom/WiiBeer.tendies",
@@ -279,6 +318,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 76,
         "name": "Final Resting Place",
         "description": "Glimpse into the future",
         "url": "wallpapers/custom/TrinityHadesSkeletonBoy.tendies",
@@ -286,6 +326,7 @@
         "authors": "trinityhades"
     },
     {
+        "id": 75,
         "name": "Space",
         "description": "The Space!",
         "url": "wallpapers/custom/Space.tendies",
@@ -293,6 +334,7 @@
         "authors": "@_systemless"
     },
     {
+        "id": 74,
         "name": "Among Us",
         "description": "The Space! Wait, what's that?",
         "url": "wallpapers/custom/Amogus.tendies",
@@ -300,6 +342,7 @@
         "authors": "@LeminLimez"
     },
     {
+        "id": 73,
         "name": "iOS 6 Revamp",
         "description": "Pretend like your phone is on iOS 6 again!",
         "url": "wallpapers/custom/iOS6Revamp.tendies",
@@ -307,6 +350,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 72,
         "name": "Minecraft Panorama",
         "description": "A scrolling panorama from Minecraft as your wallpaper!",
         "url": "wallpapers/custom/MCPanorama.tendies",
@@ -314,6 +358,7 @@
         "authors": "@pengubow"
     },
     {
+        "id": 71,
         "name": "Sakura Tree",
         "description": "A beautiful Sakura tree with leaves falling!",
         "url": "wallpapers/custom/Sakura.tendies",
@@ -321,6 +366,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 70,
         "name": "Splatoon",
         "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
         "url": "wallpapers/custom/Splatoon-SquidSisters.tendies",
@@ -328,6 +374,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 69,
         "name": "Mario Galaxy",
         "description": "A wallpaper based on Super Mario Galaxy!",
         "url": "wallpapers/custom/MarioGalaxy.tendies",
@@ -335,6 +382,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 68,
         "name": "MarioYoshi",
         "description": "A wallpaper based on Super Mario with Yoshi!",
         "url": "wallpapers/custom/MarioYoshi.tendies",
@@ -342,6 +390,7 @@
         "authors": "@jordrixx"
     },
     {
+        "id": 67,
         "name": "Tinted Cubes",
         "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
         "url": "wallpapers/custom/TintedCubes.tendies",
@@ -349,6 +398,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 66,
         "name": "Rainbow Sprinkles",
         "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
         "url": "wallpapers/custom/RainbowSprinkles.tendies",
@@ -356,6 +406,7 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 65,
         "name": "Balatro",
         "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
         "url": "wallpapers/custom/BalatroMenu.tendies",
@@ -363,6 +414,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 64,
         "name": "Boykisser",
         "description": "Boykisser all over your screen",
         "url": "wallpapers/custom/boykisser.tendies",
@@ -370,6 +422,7 @@
         "authors": "@ch_eese on Discord"
     },
     {
+        "id": 63,
         "name": "iOS Backup Things Logo",
         "description": "iOS Backup Things logo as your wallpaper!",
         "url": "wallpapers/custom/iOSBackupThings.tendies",
@@ -377,6 +430,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 62,
         "name": "Snoopy",
         "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
         "url": "wallpapers/custom/Snoopy.tendies",
@@ -384,6 +438,7 @@
         "authors": "@daredvl"
     },
     {
+        "id": 61,
         "name": "Aqua Collection",
         "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
         "url": "wallpapers/custom/AquaCollection.tendies",
@@ -391,6 +446,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 60,
         "name": "iPhone 15 Sea Glass Collection",
         "description": "iOS 18 or higher required",
         "url": "wallpapers/custom/iPhone15SeaGlass.tendies",
@@ -398,6 +454,7 @@
         "authors": "@applintrnl"
     },
     {
+        "id": 59,
         "name": "SpinningGear",
         "description": "Switchboard real",
         "url": "wallpapers/custom/SpinningGear.tendies",
@@ -405,6 +462,7 @@
         "authors": "@applintrnl"
     },
     {
+        "id": 58,
         "name": "15 Pro Color Collection",
         "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
         "url": "wallpapers/custom/iPhone15ProColorCollection.tendies",
@@ -412,6 +470,7 @@
         "authors": "@applintrnl"
     },
     {
+        "id": 57,
         "name": "\ud83d\uddff",
         "description": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos",
         "url": "wallpapers/custom/RickApple.tendies",
@@ -419,6 +478,7 @@
         "authors": "@forcequitOS"
     },
     {
+        "id": 56,
         "name": "Apple Logo",
         "description": "An animated RGB Apple logo for your background!",
         "url": "wallpapers/custom/AppleLogo.tendies",
@@ -426,6 +486,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 55,
         "name": "iSoda",
         "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
         "url": "wallpapers/custom/iSoda.tendies",
@@ -433,6 +494,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 54,
         "name": "Nexus",
         "description": "A remake of the android nexus wallpaper.",
         "url": "wallpapers/custom/Nexus.tendies",
@@ -440,6 +502,7 @@
         "authors": "@bebebole"
     },
     {
+        "id": 53,
         "name": "Midnight Brisa",
         "description": "Purple and blue gradient waves.",
         "url": "wallpapers/custom/MidnightBrisa.tendies",
@@ -447,6 +510,7 @@
         "authors": "@limonetexd"
     },
     {
+        "id": 52,
         "name": "Stars",
         "description": "Something with stars.",
         "url": "wallpapers/custom/Stars.tendies",
@@ -454,6 +518,7 @@
         "authors": "@kukuruzka165"
     },
     {
+        "id": 51,
         "name": "Swelvy",
         "description": "Assets taken from Geode SDK.",
         "url": "wallpapers/custom/Swelvy.tendies",
@@ -461,6 +526,7 @@
         "authors": "@anhnguyenlost13"
     },
     {
+        "id": 50,
         "name": "Graduation",
         "description": "But he made Graduation!",
         "url": "wallpapers/custom/Graduation.tendies",
@@ -468,6 +534,7 @@
         "authors": "@ROWNIE & @Mars"
     },
     {
+        "id": 49,
         "name": "Patrick on a Seahorse",
         "description": "Patricc vibing on da seahorse",
         "url": "wallpapers/custom/PatrickSeahorse.tendies",
@@ -475,6 +542,7 @@
         "authors": "@ellibarks"
     },
     {
+        "id": 48,
         "name": "Nintendo Switch",
         "description": "You better switch up that attitude or wii are gonna have a problem.",
         "url": "wallpapers/custom/NintendoSwitch.tendies",
@@ -482,6 +550,7 @@
         "authors": "@c4ndyf1sh"
     },
     {
+        "id": 47,
         "name": "Flower Boy",
         "description": "Flower Boy by Tyler, The Creator (2017)",
         "url": "wallpapers/custom/flower_boy_v1.tendies",
@@ -489,6 +558,7 @@
         "authors": "@softminted_"
     },
     {
+        "id": 46,
         "name": "Purple Wave",
         "description": "Just a purple wave",
         "url": "wallpapers/custom/wave.tendies",
@@ -496,6 +566,7 @@
         "authors": "@cgbakery"
     },
     {
+        "id": 45,
         "name": "Black Goku",
         "description": "Reveal your true powers.",
         "url": "wallpapers/custom/BlackGoku.tendies",
@@ -503,6 +574,7 @@
         "authors": "@yangjiii"
     },
     {
+        "id": 44,
         "name": "Broken Screen",
         "description": "YOU BROKE MY SCREEN!",
         "url": "wallpapers/custom/BrokenScreen.tendies",
@@ -510,6 +582,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 43,
         "name": "Desert",
         "description": "In the desert",
         "url": "wallpapers/custom/Desert.tendies",
@@ -517,6 +590,7 @@
         "authors": "@yangjiii"
     },
     {
+        "id": 42,
         "name": "FatCat",
         "description": "A Wallpaper based on a fat cat meme",
         "url": "wallpapers/custom/FatCat.tendies",
@@ -524,6 +598,7 @@
         "authors": "@thefelix32"
     },
     {
+        "id": 41,
         "name": "Dragon Ball",
         "description": "A Wallpaper based on Dragonball",
         "url": "wallpapers/custom/Dragonball.tendies",
@@ -531,6 +606,7 @@
         "authors": "@thefelix324"
     },
     {
+        "id": 40,
         "name": "Honor Magic V Flip",
         "description": "Cute!",
         "url": "wallpapers/custom/HonorMagicVFlip.tendies",
@@ -538,6 +614,7 @@
         "authors": "@yangjiii"
     },
     {
+        "id": 39,
         "name": "Skeleton",
         "description": "Peace, my friend.",
         "url": "wallpapers/custom/Skelet.tendies",
@@ -545,6 +622,7 @@
         "authors": "@rezanen"
     },
     {
+        "id": 38,
         "name": "Stonks Up",
         "description": "YES!",
         "url": "wallpapers/custom/StonksUp.tendies",
@@ -552,6 +630,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 37,
         "name": "Stonks Down",
         "description": "NO!",
         "url": "wallpapers/custom/StonksDown.tendies",
@@ -559,6 +638,7 @@
         "authors": "@jam_minty"
     },
     {
+        "id": 36,
         "name": "I am in.",
         "description": "$%@!",
         "url": "wallpapers/custom/i_am_in.tendies",
@@ -566,6 +646,7 @@
         "authors": "@i.mes"
     },
     {
+        "id": 35,
         "name": "Neon Lines",
         "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
         "url": "wallpapers/custom/neon_lines.tendies",
@@ -573,6 +654,7 @@
         "authors": "@i.mes"
     },
     {
+        "id": 34,
         "name": "Orbital",
         "description": "Just like a door.",
         "url": "wallpapers/custom/orbitalv1.tendies",
@@ -580,6 +662,7 @@
         "authors": "@luctilus"
     },
     {
+        "id": 30,
         "name": "Ubuntu",
         "description": "Linux..?",
         "url": "wallpapers/custom/ubuntu.tendies",
@@ -587,6 +670,7 @@
         "authors": "@mak5er"
     },
     {
+        "id": 29,
         "name": "Wii boot/home",
         "description": "*Wii Menu SFX*",
         "url": "wallpapers/custom/wiiFIX.tendies",
@@ -594,6 +678,7 @@
         "authors": "@cgbakery"
     },
     {
+        "id": 28,
         "name": "Windows 11",
         "description": "Windows Phones are back??",
         "url": "wallpapers/custom/windows11.tendies",
@@ -601,6 +686,7 @@
         "authors": "@mak5er"
     },
     {
+        "id": 27,
         "name": "Sonic Mania Mirage Saloon",
         "description": "Wallpaper of Mirage Saloon from Sonic Mania\n\nFulfilled suggestion",
         "url": "wallpapers/custom/smania.tendies",
@@ -608,6 +694,7 @@
         "authors": "semay"
     },
     {
+        "id": 26,
         "name": "Persona 5 Menu Wallpaper",
         "description": "Persona fans are gonna love this.",
         "url": "wallpapers/custom/P5Theme.tendies",
@@ -615,6 +702,7 @@
         "authors": "TY and Co."
     },
     {
+        "id": 25,
         "name": "Lil Uzi Vert vs. The World",
         "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
         "url": "wallpapers/custom/Lil_Uzi_Vert_Vs_The_World.tendies",
@@ -622,6 +710,7 @@
         "authors": "@dularkian on GitHub"
     },
     {
+        "id": 24,
         "name": "Persona 4 Wallpaper",
         "description": "Looks better with Always On Display (i think).",
         "url": "wallpapers/custom/P4Theme.tendies",
@@ -629,6 +718,7 @@
         "authors": "TY and Co."
     },
     {
+        "id": 23,
         "name": "Persona 3 Classic Wallpaper",
         "description": "This time it\u2019s the classic UI. Not Reload.",
         "url": "wallpapers/custom/P3ClassicTheme.tendies",
@@ -636,6 +726,7 @@
         "authors": "TY and Co."
     },
     {
+        "id": 22,
         "name": "Sheikah Slate (Zelda BOTW)",
         "description": "The Sheikah Slate from BOTW for your iPhone!",
         "url": "wallpapers/custom/SheikahSlate.tendies",
@@ -643,6 +734,7 @@
         "authors": "Vioxel"
     },
     {
+        "id": 21,
         "name": "Sonic's Gang",
         "description": "Sonic, Knuckles, Amy, and Tails running across your screen!",
         "url": "wallpapers/custom/SonicsGang.tendies",
@@ -650,6 +742,7 @@
         "authors": "Vioxel"
     },
     {
+        "id": 20,
         "name": "Whole Lotta Red",
         "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
         "url": "wallpapers/custom/WholeLottaRed.tendies",
@@ -657,6 +750,7 @@
         "authors": "tankhalfempty"
     },
     {
+        "id": 19,
         "name": "Undertale Ruins Scrolling Wallpaper",
         "description": "Ruins, now on your phone!",
         "url": "wallpapers/custom/UndertaleRuins.tendies",
@@ -664,6 +758,7 @@
         "authors": "TY and Co."
     },
     {
+        "id": 18,
         "name": "Kendrick Lamar: Damn.",
         "description": "DAMN. Kendrick cooked on this one.",
         "url": "wallpapers/custom/DamnByTrinityHades.tendies",
@@ -671,6 +766,7 @@
         "authors": "trinityhades"
     },
     {
+        "id": 17,
         "name": "Lumon Run v2",
         "description": "Your outie is scared.",
         "url": "wallpapers/custom/LumonRunv2TrinityHades.tendies",
@@ -678,6 +774,7 @@
         "authors": "trinityhades"
     },
     {
+        "id": 6,
         "name": "Macrodata Refinement",
         "description": "Find the scary numbers.",
         "url": "wallpapers/custom/MacrodataRefinement.tendies",
@@ -685,6 +782,7 @@
         "authors": "trinityhades"
     },
     {
+        "id": 5,
         "name": "Solar System",
         "description": "Sun, earth, and moon.",
         "url": "wallpapers/custom/SolarSystem.tendies",
@@ -692,6 +790,7 @@
         "authors": "@squair.dev"
     },
     {
+        "id": 4,
         "name": "Niko OneShot",
         "description": "Clean animation of Niko from OneShot!",
         "url": "wallpapers/custom/niko.tendies",
