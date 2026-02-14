@@ -1,5 +1,6 @@
 [
     {
+        "id": 26,
         "name": "Among Us",
         "description": "When the impostor is sus.",
         "url": "wallpapers/passtheme/AmongUsKeylock.passthm",
@@ -7,6 +8,7 @@
         "authors": "@NoW4U2Kid on GitHub"
     },
     {
+        "id": 25,
         "name": "Adobe Dog",
         "description": "Funny dog from adobe stock photos.",
         "url": "wallpapers/passtheme/BEST_adobe_dog.passthm",
@@ -14,6 +16,7 @@
         "authors": "@LeminLimez on GitHub"
     },
     {
+        "id": 24,
         "name": "Colored Numbers",
         "description": "A colorful key combination.",
         "url": "wallpapers/passtheme/colored_numbers.passthm",
@@ -21,6 +24,7 @@
         "authors": "Skwad29#2999 on Discord"
     },
     {
+        "id": 23,
         "name": "Rainbow Doodle",
         "description": "A colorful key combination.",
         "url": "wallpapers/passtheme/Rainbow_Doodle.passthm",
@@ -28,6 +32,7 @@
         "authors": "Twilight System#4820 on Discord"
     },
     {
+        "id": 22,
         "name": "1.1.1.1",
         "description": "DNS never looked this good.",
         "url": "wallpapers/passtheme/cloudflare.passthm",
@@ -35,6 +40,7 @@
         "authors": "@YangJiii on GitHub"
     },
     {
+        "id": 21,
         "name": "Roman Numerals",
         "description": "Rome.",
         "url": "wallpapers/passtheme/roman_numerals.passthm",
@@ -42,6 +48,7 @@
         "authors": "martinn#2028 on Discord"
     },
     {
+        "id": 20,
         "name": "Minecraft",
         "description": "Cubic fun.",
         "url": "wallpapers/passtheme/minecraft.passthm",
@@ -49,6 +56,7 @@
         "authors": "Kalphalus#5952 on Discord"
     },
     {
+        "id": 19,
         "name": "Consoles",
         "description": "A retro style of your favorite consoles.",
         "url": "wallpapers/passtheme/consoles.passthm",
@@ -56,6 +64,7 @@
         "authors": "Dinervc#2921 on Discord"
     },
     {
+        "id": 18,
         "name": "Dragon Ball",
         "description": "Dragon ball something.",
         "url": "wallpapers/passtheme/DragonBallPass.passthm",
@@ -63,6 +72,7 @@
         "authors": "@YangJiii on GitHub"
     },
     {
+        "id": 17,
         "name": "Digital",
         "description": "High-tech keys for high-tech people.",
         "url": "wallpapers/passtheme/Digital.passthm",
@@ -70,6 +80,7 @@
         "authors": "Xenon#1539 on Discord"
     },
     {
+        "id": 16,
         "name": "Dark Red and Black",
         "description": "Dark red and black.",
         "url": "wallpapers/passtheme/dark_red_and_black.passthm",
@@ -77,6 +88,7 @@
         "authors": "Kalphalus#5952 on Discord"
     },
     {
+        "id": 15,
         "name": "Monopad",
         "description": "Simple monospaced passcode theme.",
         "url": "wallpapers/passtheme/Monopad.passthm",
@@ -84,6 +96,7 @@
         "authors": "@BomberFish on GitHub"
     },
     {
+        "id": 14,
         "name": "Neon",
         "description": "Feel the color.",
         "url": "wallpapers/passtheme/neon.passthm",
@@ -91,6 +104,7 @@
         "authors": "@YangJiii on GitHub"
     },
     {
+        "id": 13,
         "name": "Neon 2",
         "description": "Feel the color again.",
         "url": "wallpapers/passtheme/neon2.passthm",
@@ -98,6 +112,7 @@
         "authors": "@YangJiii on GitHub"
     },
     {
+        "id": 12,
         "name": "Simple Dark",
         "description": "A simple dark passcode theme.",
         "url": "wallpapers/passtheme/simple_dark.passthm",
@@ -105,6 +120,7 @@
         "authors": "@c22dev on GitHub"
     },
     {
+        "id": 11,
         "name": "MinePass (Rainbow)",
         "description": "",
         "url": "wallpapers/passtheme/MinePass_Rainbow.passthm",
@@ -112,6 +128,7 @@
         "authors": "AIslayer#7428 on Discord"
     },
     {
+        "id": 10,
         "name": "MinePass (Nightly)",
         "description": "",
         "url": "wallpapers/passtheme/MinePass_Nightly.passthm",
@@ -119,6 +136,7 @@
         "authors": "AIslayer#7428 on Discord"
     },
     {
+        "id": 9,
         "name": "Simple Dots",
         "description": "",
         "url": "wallpapers/passtheme/Simple_Dots.passthm",
@@ -126,6 +144,7 @@
         "authors": "Tuchan#0001 on Discord"
     },
     {
+        "id": 8,
         "name": "Linux Distros",
         "description": "",
         "url": "wallpapers/passtheme/Linux_Distros.passthm",
@@ -133,6 +152,7 @@
         "authors": "AZGDO#6010 on Discord"
     },
     {
+        "id": 7,
         "name": "Ice Cream",
         "description": "",
         "url": "wallpapers/passtheme/IceCream.passthm",
@@ -140,6 +160,7 @@
         "authors": "AIslayer#7428 on Discord"
     },
     {
+        "id": 6,
         "name": "OSU! Hit Circle",
         "description": "",
         "url": "wallpapers/passtheme/OSU!_Hit_Circle.passthm",
@@ -147,6 +168,7 @@
         "authors": "doraa#2828 on Discord"
     },
     {
+        "id": 5,
         "name": "Viva Pass",
         "description": "",
         "url": "wallpapers/passtheme/Viva_Pass.passthm",
@@ -154,6 +176,7 @@
         "authors": "AIslayer#7428 on Discord"
     },
     {
+        "id": 4,
         "name": "Pokeball Pass 🔴🔵🟡🟣",
         "description": "",
         "url": "wallpapers/passtheme/Pokeball_Pass.passthm",
@@ -161,6 +184,7 @@
         "authors": "@The_Nobl3_Guy on Twitter"
     },
     {
+        "id": 3,
         "name": "Snooker",
         "description": "",
         "url": "wallpapers/passtheme/Snooker_Pass.passthm",
@@ -168,6 +192,7 @@
         "authors": "@The_Nobl3_Guy on Twitter"
     },
     {
+        "id": 2,
         "name": "Star Lord",
         "description": "",
         "url": "wallpapers/passtheme/Star_Lord.passthm",
@@ -175,6 +200,7 @@
         "authors": "@The_Nobl3_Guy on Twitter"
     },
     {
+        "id": 1,
         "name": "Space Travelers",
         "description": "",
         "url": "wallpapers/passtheme/SpaceTravelers.passthm",
@@ -182,6 +208,7 @@
         "authors": "@The_Nobl3_Guy on Twitter"
     },
     {
+        "id": 0,
         "name": "Planets",
         "description": "",
         "url": "wallpapers/passtheme/Planets.passthm",

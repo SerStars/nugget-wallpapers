@@ -1,6 +1,6 @@
 {
     "Nugget": {
-        "icon": "https://raw.githubusercontent.com/leminlimez/Nugget/refs/heads/main/credits/big_nugget.png",
+        "icon": "https://raw.githubusercontent.com/leminlimez/Nugget/refs/heads/main/src/qt/credits/big_nugget.png",
         "faq": [
             {
                 "question": "Is my device supported on the newest Nugget version?",
