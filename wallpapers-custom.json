@@ -86,6 +86,22 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 114,
+        "name": "Wave Hills",
+        "description": "Flowing waves across your screen!",
+        "url": "wallpapers/custom/Waves_Bundle_Static.tendies",
+        "preview": "previews/custom/gifs/Waves_Bundle_Static.gif",
+        "authors": "@squair.dev"
+    },
+    {
+        "id": 115,
+        "name": "Wave Hills (Gyro)",
+        "description": "Flowing waves across your screen! (iOS 26RC+)",
+        "url": "wallpapers/custom/Waves_Bundle_Gyro.tendies",
+        "preview": "previews/custom/gifs/Waves_Bundle_Gyro.gif",
+        "authors": "@squair.dev"
+    },
+    {
         "id": 102,
         "name": "Purple Shapes",
         "description": "Purple gradients",
