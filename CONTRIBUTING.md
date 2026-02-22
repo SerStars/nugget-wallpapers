@@ -2,12 +2,12 @@
 Thank you for wanting to contribute to **Nugget‑Wallpapers**!
 
 ## How to Contribute
-### 1. Submitting new your custom wallpaper(s)
+### 1. Submitting your own custom wallpaper(s)
 If you want to add your own wallpaper:
 1. Fork this repository and clone using the **`Dev`** branch.
 2. Place your wallpaper `.tendies` file(s) in the `wallpapers/custom` folder.
 <br>If you're uploading a `.batter` (template) file, place your wallpaper file in the `wallpapers/template` folder.
-3. Add a preview video (`.mov` or `.mp4`) in `previews/custom`.
+3. Add a preview video (`.mov` or `.mp4`, please keep the extension lowercased) in `previews/custom/videos`.
 <br>Try to keep your previews as small as possible!
 4. Make file names clear.
 <br>E.g., `MarioGalaxy.tendies` and `MarioGalaxy.mp4`
@@ -17,10 +17,10 @@ If you want to add your own wallpaper:
 ```json
 {
     "id": 1234567890,
-    "name": "Your Wallpaper Name Here",
-    "description": "Your Wallpaper Description Here",
-    "url": "wallpapers/custom/YourWallpaperFileHere.tendies",
-    "preview": "previews/custom/gifs/YourWallpaperPreviewHere.gif", // Keep this as .gif!
+    "name": "Your Wallpaper Name",
+    "description": "Your Wallpaper Description",
+    "url": "wallpapers/custom/YourWallpaperFileName.tendies",
+    "preview": "previews/custom/gifs/YourWallpaperPreviewName.gif", // Keep this as .gif! GitHub will convert it automatically.
     "authors": "You", // Can be a social media @ or just your name.
 },
 ```
