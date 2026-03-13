@@ -7,6 +7,13 @@
         "preview": "previews/apple/images/Defaults.png"
     },
     {
+        "id": 31,
+        "name": "iPhone 17e",
+        "description": "*iOS 26.3.1+",
+        "url": "wallpapers/apple/iPhone17e.tendies",
+        "preview": "previews/apple/images/iPhone17e.png"
+    },
+    {
         "id": 30,
         "name": "iPhone Air",
         "description": "*15 Pro or newer, iOS 26+",
