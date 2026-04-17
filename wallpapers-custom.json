@@ -86,6 +86,14 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 125,
+        "name": "Xiaomi YU7",
+        "description": "与小米 YU7 一同探索世界。支持 AoD 动画",
+        "url": "wallpapers/custom/Xiaomi-YU7.tendies",
+        "preview": "previews/custom/gifs/Xiaomi-YU7.gif",
+        "authors": "@leopoldchou"
+    },
+    {
         "id": 114,
         "name": "Wave Hills",
         "description": "Flowing waves across your screen!",
