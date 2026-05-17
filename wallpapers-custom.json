@@ -86,6 +86,14 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 116,
+        "name": "iOS_INTERNAL",
+        "description": "Jailbreak?",
+        "url": "wallpapers/custom/Static_iOS_Internal.tendies",
+        "preview": "previews/custom/gifs/Static_iOS_Internal.gif",
+        "authors": "@squair.dev"
+    },
+    {
         "id": 114,
         "name": "Wave Hills",
         "description": "Flowing waves across your screen!",
