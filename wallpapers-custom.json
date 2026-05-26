@@ -86,6 +86,14 @@
         "authors": "@dootskyre"
     },
     {
+        "id": 117,
+        "name": "Xiaomi YU7",
+        "description": "Explore with Xiaomi YU7. Supports AoD animation",
+        "url": "wallpapers/custom/Xiaomi-YU7.tendies",
+        "preview": "previews/custom/gifs/Xiaomi-YU7.gif",
+        "authors": "@leopoldchou"
+    },
+    {
         "id": 116,
         "name": "iOS_INTERNAL",
         "description": "Jailbreak?",
