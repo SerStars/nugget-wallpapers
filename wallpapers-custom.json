@@ -86,12 +86,20 @@
         "authors": "@dootskyre"
     },
     {
-        "id": 125,
+        "id": 117,
         "name": "Xiaomi YU7",
-        "description": "与小米 YU7 一同探索世界。支持 AoD 动画",
+        "description": "Explore with Xiaomi YU7. Supports AoD animation",
         "url": "wallpapers/custom/Xiaomi-YU7.tendies",
         "preview": "previews/custom/gifs/Xiaomi-YU7.gif",
         "authors": "@leopoldchou"
+    },
+    {
+        "id": 116,
+        "name": "iOS_INTERNAL",
+        "description": "Jailbreak?",
+        "url": "wallpapers/custom/Static_iOS_Internal.tendies",
+        "preview": "previews/custom/gifs/Static_iOS_Internal.gif",
+        "authors": "@squair.dev"
     },
     {
         "id": 114,
