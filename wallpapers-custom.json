@@ -122,7 +122,7 @@
         "name": "Purple Shapes",
         "description": "Purple gradients",
         "url": "wallpapers/custom/PurpleShapes.tendies",
-        "preview": "previews/custom/gifs/PurpleShapes.gif", 
+        "preview": "previews/custom/gifs/PurpleShapes.gif",
         "authors": "Spy_g"
     },
     {
@@ -130,7 +130,7 @@
         "name": "Dark Scenery",
         "description": "A dark forrest with emmiters",
         "url": "wallpapers/custom/Dark.tendies",
-        "preview": "previews/custom/gifs/Dark.gif", 
+        "preview": "previews/custom/gifs/Dark.gif",
         "authors": "Spy_g"
     },
     {
@@ -503,7 +503,7 @@
     },
     {
         "id": 57,
-        "name": "\ud83d\uddff",
+        "name": "🗿",
         "description": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos",
         "url": "wallpapers/custom/RickApple.tendies",
         "preview": "previews/custom/images/RickApple.png",
@@ -752,7 +752,7 @@
     {
         "id": 23,
         "name": "Persona 3 Classic Wallpaper",
-        "description": "This time it\u2019s the classic UI. Not Reload.",
+        "description": "This time it’s the classic UI. Not Reload.",
         "url": "wallpapers/custom/P3ClassicTheme.tendies",
         "preview": "previews/custom/gifs/P3ClassicTheme.gif",
         "authors": "TY and Co."
@@ -828,5 +828,13 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev"
+    },
+    {
+        "name": "Night City",
+        "creator": "squair.dev",
+        "description": "The City of Legends!",
+        "file": "wallpapers/custom/Night_City.tendies",
+        "preview": "previews/custom/gifs/Night_City.gif",
+        "id": 7004208
     }
 ]
